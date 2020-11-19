@@ -1,18 +1,20 @@
-# gemography-backend-challenge"
+# gemography-backend-challenge
 
 This application is a Spring Boot REST microservice that list the languages used by the most starred GitHub public repos created in the last 30 days.
 
 ## Run the app
 
-To start this application run:
+To launch the application run:
 ```
 mvn spring-boot:run
 ```
 
 ## Run the tests
+code coverage:
+
+class 100%, method 78%, line 78%.
 
 To launch the application's tests, run:
-
 ```
 mvn clean test
 ```
